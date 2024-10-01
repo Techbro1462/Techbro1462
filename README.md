@@ -10,4 +10,4 @@
 Techbro1462/Techbro1462 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Tracking Pixel](https://localhost:3000/visit)
+![Tracking Pixel](https://s9gjn84j-3333.inc1.devtunnels.ms/)
