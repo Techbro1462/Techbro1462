@@ -10,4 +10,4 @@
 Techbro1462/Techbro1462 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://gooo-0cej.onrender.com/"  />
+<img src="fetch("https://gooo-0cej.onrender.com/")"/>
