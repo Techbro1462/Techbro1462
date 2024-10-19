@@ -7,4 +7,4 @@
 - ⚡ Fun fact: ...
 
 
-<button type="button">Click Me!</button>
+<button type="button" onClick="alert()">Click Me!</button>
