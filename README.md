@@ -6,14 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Click Me](https://img.shields.io/badge/Click%20Me-black?style=for-the-badge&logo=github)](https://your-url-here.com)
 
-    <button onclick="alert('Button was clicked!')" 
-        style="background-color: black; color: white; font-weight: 100; padding: 10px 20px; border: none; cursor: pointer; transition: background-color 0.3s ease;">
-        Click Me
-    </button>
-
-    <style>
-        button:hover {
-            background-color: #333; /* Shade down on hover */
-        }
-    </style>
